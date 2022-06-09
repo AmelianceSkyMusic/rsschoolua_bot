@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AmelianceSkyMusic/rsschoolua_bot#readme",
   "dependencies": {
     "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "netlify-cli": "^8.14.1"
   }
 }

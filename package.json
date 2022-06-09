@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AmelianceSkyMusic/rsschoolua_bot/issues"
   },
-  "homepage": "https://github.com/AmelianceSkyMusic/rsschoolua_bot#readme"
+  "homepage": "https://github.com/AmelianceSkyMusic/rsschoolua_bot#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }

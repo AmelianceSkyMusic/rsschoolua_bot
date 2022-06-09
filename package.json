@@ -1,0 +1,20 @@
+{
+  "name": "rsschoolua_bot",
+  "version": "1.0.0",
+  "description": "RS School | Ukraine — Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmelianceSkyMusic/rsschoolua_bot.git"
+  },
+  "keywords": [],
+  "author": "Ameliance SkyMusic <amelianceskymusic@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmelianceSkyMusic/rsschoolua_bot/issues"
+  },
+  "homepage": "https://github.com/AmelianceSkyMusic/rsschoolua_bot#readme"
+}
